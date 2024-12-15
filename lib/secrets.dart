@@ -1,1 +1,2 @@
-const openAIAPIKey = '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';
+const openAIAPIKey = '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';
+const geminiKey = 'AIzaSyBwzQ0JQFJBHusd-USS41nqqMmHu4Wg2gw';
